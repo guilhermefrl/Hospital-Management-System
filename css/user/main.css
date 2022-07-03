@@ -1,0 +1,153 @@
+#nav-text{
+    color: white;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+}
+
+#nav-bar{
+    background-color: #0062E6 !important;
+}
+
+#body{
+    background-color:#edf2f9;
+}
+
+#consulta{
+    vertical-align: middle;
+    margin-left: 3.5%;
+}
+
+#consulta_dia{
+    vertical-align: middle;
+    margin-left: 6px;
+}
+
+#consulta1{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 4%;
+}
+
+#consulta2{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-weight: normal;
+}
+
+#consulta3{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 10%;
+}
+
+#consulta4{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-weight: normal;
+}
+
+#consulta1_1{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 3.5%;
+}
+
+#consulta_razao{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 1.8%;
+    font-weight: normal;
+    text-align: justify;
+}
+
+#consulta3_1{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 8.5%;
+}
+
+#consulta_titulo{
+    vertical-align: middle;
+    margin-left: 5px;
+    font-weight: normal;
+}
+
+#dashboard_texto{
+    margin-left: 5px;
+    font-weight: normal;
+}
+
+#disable-select {
+    text-align: center;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+}
+
+#disable-select1 {
+    font-weight: bold;
+    color: transparent;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+  }
+
+.error{
+    background: #F2DEDE;
+    color: #A94442;
+    padding: 10px;
+    width: 32%;
+    border-radius: 20px;
+    margin: 0px auto;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.success{
+    background: #D4EDDA;
+    color: #40754C;
+    padding: 10px;
+    width: 32%;
+    border-radius: 20px;
+    margin: 0px auto;
+    margin-left: 40px;
+    text-align: center;
+}
+
+#Table{
+    border-collapse:separate;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+    padding: 16px;
+}
+
+#Table a
+{
+    color: rgba(0, 0, 0, 0.863);
+    display: block;
+    text-decoration: none;
+}
+
+#Table td{
+    text-align: left;
+    padding: 17px;
+}
+
+#Table tr {
+    border-bottom: 1px solid #ddd;
+}
+
+#Table tr.header, #Table tr:hover {
+    background-color: #f1f1f1;
+}
